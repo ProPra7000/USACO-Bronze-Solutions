@@ -1,3 +1,5 @@
+#Bronze 1 Solution - December 2020
+#Link to Contest - http://www.usaco.org/index.php?page=viewproblem2&cpid=1059
 from itertools import permutations
 x = list(map(int, input().split()))
 for i in permutations(x):
