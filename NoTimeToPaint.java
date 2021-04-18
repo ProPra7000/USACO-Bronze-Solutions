@@ -1,3 +1,6 @@
+// Silver 2 Solution - Jan 2021
+// Link to Contest - http://www.usaco.org/index.php?page=viewproblem2&cpid=1087
+
 import java.io.*;
 import java.util.*;
 
