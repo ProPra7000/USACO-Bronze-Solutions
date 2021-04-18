@@ -1,3 +1,5 @@
+#Bronze 2 Solution - December 2020
+#Link to Problem - http://www.usaco.org/index.php?page=viewproblem2&cpid=1060
 n = int(input())
 x = list(map(int, input().split()))
 ans = 0
