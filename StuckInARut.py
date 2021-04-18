@@ -1,3 +1,6 @@
+#Bronze 3 Solution - December 2020
+#Link to Problem - http://www.usaco.org/index.php?page=viewproblem2&cpid=1061
+
 import math
 #variables
 data = []
